@@ -2,7 +2,7 @@
 
 ### usage
 ```sh
-pip install -r install requirements.txt 
+pip install -r requirements.txt 
 ```
 ### run
  ```

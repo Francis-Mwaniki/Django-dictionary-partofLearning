@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+Lib
+Scripts
+```
+
+Now, we can activate the virtual environment by running the following command:
+
+bin/activate
+sqlite3
+
+pyvenv-3.4 venv
